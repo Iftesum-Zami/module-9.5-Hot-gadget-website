@@ -1,0 +1,35 @@
+.container{
+    margin-bottom: 100px;
+}
+.background-color{
+    background-color: #fceae8;
+}
+.price{
+    color: deeppink;
+}
+.buy-now-btn{
+    background-image: linear-gradient(black, black);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 0 40px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.card{
+    padding: 30px 35px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.heading h5{
+    color: yellowgreen;
+}
+
+/* arrow sign: → */
